@@ -1,17 +1,37 @@
-# Hi, I'm Danil
+<img src="https://avatars.githubusercontent.com/u/43929177?v=4" width="24%" align="right" alt="Danil's GitHub avatar">
 
-I'm a product engineer focused on frontend development and user experience. I work across interface design and implementation: turning requirements and APIs into useful, understandable features.
+### 👋 Hi, I'm Danil · `Triton556`
 
-## What I work with
+**Product engineer working across frontend and UI/UX.**
 
-- **Frontend:** TypeScript, React, Vite and Next.js
-- **Application state and data:** Zustand, Apollo Client and GraphQL
-- **UI/UX:** component-driven interfaces, design systems and interactive prototypes
-- **Exploration:** AI-assisted development, browser games and creative tools
+I turn requirements and APIs into useful, understandable interfaces.<br>
+My projects also explore robotics, 3D interaction and games.
 
-## Projects
+<pre>
+🧩 Frontend    TypeScript · React · Vite · Next.js
+🎨 UI/UX       Components · design systems · prototypes
+🔗 Data        Zustand · Apollo Client · GraphQL
+🤖 Robotics    Python · PyQt · CoppeliaSim
+🎮 Interactive Unity · C# · Canvas 2D
+</pre>
 
-- **[Lumen Relay](https://github.com/Triton556/lumen-relay)** — a cozy, procedural Canvas 2D puzzle adventure through six floating gardens. An AI-assisted experiment built with Rumi.
-- **[Runtime Unity Gizmo](https://github.com/Triton556/Gizmo-for-Unity-Game-Scene)** — a C# experiment for selecting and moving objects inside a running Unity scene.
+<br clear="right">
 
-I care about clear interactions, maintainable components and checking that a feature actually works from the user's perspective.
+### 🤖 Robotics & spatial interfaces
+
+- **[Underwater Robot Mapping](https://github.com/Triton556/Coppelia-kursovoy)** · A simulated underwater survey vehicle, route planning and LiDAR point-cloud mapping with a Python desktop interface. Robotics coursework.
+- **[Iterative Closest Point](https://github.com/Triton556/Iterative-Closest-Point)** · An experimental Unity/C# point-cloud alignment tool developed for a human–machine interface.
+- **[Runtime Unity Gizmo](https://github.com/Triton556/Gizmo-for-Unity-Game-Scene)** · Select and move objects inside a running Unity scene with on-screen translation handles.
+
+### 🌿 Games & creative experiments
+
+- **[Lumen Relay](https://github.com/Triton556/lumen-relay)** · A cozy Canvas 2D puzzle adventure through six floating gardens, with procedural art and audio. An AI-assisted project built with Rumi under my direction.
+- **[SpaceShips](https://github.com/Triton556/SpaceShips)** · A mobile Unity arcade shooter with two-player co-op, built as a team in a 24-hour hackathon. My work covered movement, shooting, UI, visual effects and ship upgrades.
+
+### 🛠️ How I build
+
+I care about clear interactions, maintainable components and checking that a feature works from the user's perspective. I also explore AI-assisted development through hands-on projects.
+
+<p align="center">
+  <a href="https://github.com/Triton556?tab=repositories">Browse my repositories</a>
+</p>
